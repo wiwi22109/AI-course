@@ -1,0 +1,6 @@
+title: AI workshop
+
+plugins:
+  - jekyll-remote-theme
+  
+remote_theme: zivong/jekyll-theme-hydure
