@@ -1,9 +1,9 @@
 title: AI course
-tagline: Deep Learning Lecture
+tagline: capstone project
 
 author:
-  name: Richard Kuo
-  url: https://www.facebook.com/richard.kuo.168
+  name: ernie
+  url: https://www.facebook.com/profile.php?id=100005314030843
 
 plugins:
   - jekyll-feed
