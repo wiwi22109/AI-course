@@ -21,3 +21,5 @@ OpenAI 是美國一個人工智慧研究實驗室，由營利組織 OpenAI LP �
 
 當預測錯誤時，系統模型會自我修複，經過過百萬次重複訓練，就能確保系統模型的準確性。<br>
 https://jalammar.github.io/images/gpt3/03-gpt3-training-step-back-prop.gif
+
+1.自動生成網頁程式碼
