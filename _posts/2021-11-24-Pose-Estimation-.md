@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pose Estimation
+title: AI 自我學習
 author: [曾韋]
 category: [Lecture]
 tags: [jekyll, ai]
