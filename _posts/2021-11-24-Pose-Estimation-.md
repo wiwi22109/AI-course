@@ -10,10 +10,9 @@ Pose Estimation includes Applications, Body Pose, Head Pose, Hand Pose , Object 
 
 ---
 ### AI 自我學習
-* **[健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
-![](https://johnsonfitnesslive.com/images/mirrorPro-parallax-bg2-img03.gif)
 
-* **[AI健身教練](https://fc.bnext.com.tw/articles/view/1226)**<br>
+
+* **[AI 自我學習](https://fc.bnext.com.tw/articles/view/1226)**<br>
 健身新創 Peloton 在這波居家健身浪潮下，以販售主力產品飛輪、跑步機搭配線上課程，並將健身教練打造成「網紅」，用心拍攝運動影片，成功創造粉絲經濟。<br>
 ![](https://bnextmedia.s3.hicloud.net.tw/image/album/2021-03/img-1614856341-69773@600.jpg)
 
