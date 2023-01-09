@@ -14,6 +14,10 @@ AI 自我學習
 OpenAI 是美國一個人工智慧研究實驗室，由營利組織 OpenAI LP 與母公司非營利組織 OpenAI Inc 所組成，目的是促進和發展友好的人工智慧，使人類整體受益。組織目標是通過與其他機構和研究者的「自由合作」，向公眾開放專利和研究成果。<br>
 ![](https://tenbaggersnow.com/wp-content/uploads/2021/01/openai-1-320x133.png)
 
+![]([https://inside-assets1.inside.com.tw/2020/11/oz0fu9mal72kdptfhnq8v79sf67c57.png?w=730&fit=max&q=80](https://youtu.be/PqbB07n_uQ4))
+
+
+
 * **[馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)**<br>
 ![](https://inside-assets1.inside.com.tw/2020/11/oz0fu9mal72kdptfhnq8v79sf67c57.png?w=730&fit=max&q=80)
 
