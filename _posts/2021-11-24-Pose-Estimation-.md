@@ -9,7 +9,7 @@ tags: [jekyll, ai]
 Pose Estimation includes Applications, Body Pose, Head Pose, Hand Pose , Object Pose.
 
 ---
-### Pose Estimation Applications
+### AI 自我學習
 * **[健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
 ![](https://johnsonfitnesslive.com/images/mirrorPro-parallax-bg2-img03.gif)
 
