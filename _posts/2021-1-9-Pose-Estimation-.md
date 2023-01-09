@@ -13,7 +13,7 @@ AI 自我學習
 
 * **[AI 自我學習](C:\Users\ernie\OneDrive\桌面\螢幕擷取畫面 2023-01-09 172950.png)**<br>
 健身新創 Peloton 在這波居家健身浪潮下，以販售主力產品飛輪、跑步機搭配線上課程，並將健身教練打造成「網紅」，用心拍攝運動影片，成功創造粉絲經濟。<br>
-![]([[C:\Users\ernie\OneDrive\桌面\螢幕擷取畫面 2023-01-09 172950.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Ftenbaggersnow.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fopenai-1.png&imgrefurl=https%3A%2F%2Ftenbaggersnow.com%2F%3Fp%3D6155&tbnid=k-oxDnzSH8nA_M&vet=12ahUKEwjgv8-Xl7r8AhUvxIsBHYGaCOoQMygBegUIARC_AQ..i&docid=Hfg0IRRCNwwLlM&w=2400&h=1000&q=OpenAI&ved=2ahUKEwjgv8-Xl7r8AhUvxIsBHYGaCOoQMygBegUIARC_AQ)](https://tenbaggersnow.com/wp-content/uploads/2021/01/openai-1-320x133.png))
+![](https://tenbaggersnow.com/wp-content/uploads/2021/01/openai-1-320x133.png)
 
 * **[馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)**<br>
 ![](https://inside-assets1.inside.com.tw/2020/11/oz0fu9mal72kdptfhnq8v79sf67c57.png?w=730&fit=max&q=80)
