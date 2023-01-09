@@ -6,7 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-AI 自我學習
+OpenAI
 ---
 ### AI 自我學習
 
