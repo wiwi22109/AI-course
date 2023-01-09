@@ -6,10 +6,9 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-OpenAI
+AI 自我學習
 ---
-### AI 自我學習
-
+### OpenAI
 
 * **[OpenAI]
 人工智能現在已經可以做到與人類自由交流。<br>
