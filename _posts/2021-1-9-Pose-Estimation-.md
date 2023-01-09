@@ -19,15 +19,9 @@ OpenAI 是美國一個人工智慧研究實驗室，由營利組織 OpenAI LP �
 
 此語言模型在推出前已經被大量的數據訓練。而模型已經從多個來源（包括維基百科和書籍）接受了大約 45 TB 文本數據的訓練，使用「In-context learning」的形式作訓練，是指訓練的過程中不為特定任務作微調或限制，而讓系統模型能夠從文本數據的上下文自行了解規律及訓練，並預測下一個文字及單詞。<br>
 
-* **[Pose-controlled Lights]()**<br>
+當預測錯誤時，系統模型會自我修複，經過過百萬次重複訓練，就能確保系統模型的準確性。<br>
 ![](https://miro.medium.com/max/3000/1*el-beq8gIjuIoLl1qFmJAA.gif)
-* **[跌倒偵測](https://www.chinatimes.com/realtimenews/20201203005307-260418?chdtv)**
-<table>
-  <tr>
-  <td><img src="https://images.chinatimes.com/newsphoto/2020-12-03/1024/20201203005495.jpg"></td>  
-  <td><img src="https://matching.org.tw/website/uploads_product/website_1/P0000100000044_4_123.jpg"></td>
-  </tr>
-</table>
+
 
 * **[產線SOP](https://www.inside.com.tw/article/21716-aigo-interview-beseye-alpha)**<br>
 以雅文塑膠來說，產線作業員的動作僅集中於上半身，以頭部、頸部、肩膀、手臂、手掌的動作為主。Beseye_alpha 針對需求，複製日本大型製造工廠 AI 模型開發的成功案例、及與客戶多次討論需求、實地作業工作站規劃、實際場域測試資料訓練，開發出一個「肢體律動分析」模型，有效達到降低運算量的目標。
