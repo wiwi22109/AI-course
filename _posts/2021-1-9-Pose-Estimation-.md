@@ -11,7 +11,7 @@ AI 自我學習
 ### AI 自我學習
 
 
-* **[AI 自我學習](https://fc.bnext.com.tw/articles/view/1226)**<br>
+* **[AI 自我學習](![image](https://user-images.githubusercontent.com/114159507/211277217-98b6f433-8425-460c-b956-4a592d2f7b7a.png))**<br>
 健身新創 Peloton 在這波居家健身浪潮下，以販售主力產品飛輪、跑步機搭配線上課程，並將健身教練打造成「網紅」，用心拍攝運動影片，成功創造粉絲經濟。<br>
 ![](https://bnextmedia.s3.hicloud.net.tw/image/album/2021-03/img-1614856341-69773@600.jpg)
 
