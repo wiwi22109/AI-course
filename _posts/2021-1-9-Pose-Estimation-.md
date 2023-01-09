@@ -11,7 +11,7 @@ AI 自我學習
 ### OpenAI
 
 * **[OpenAI]
-人工智能現在已經可以做到與人類自由交流。<br>
+OpenAI 是美國一個人工智慧研究實驗室，由營利組織 OpenAI LP 與母公司非營利組織 OpenAI Inc 所組成，目的是促進和發展友好的人工智慧，使人類整體受益。組織目標是通過與其他機構和研究者的「自由合作」，向公眾開放專利和研究成果。<br>
 ![](https://tenbaggersnow.com/wp-content/uploads/2021/01/openai-1-320x133.png)
 
 * **[馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)**<br>
