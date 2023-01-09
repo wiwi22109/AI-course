@@ -6,8 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-Pose Estimation includes Applications, Body Pose, Head Pose, Hand Pose , Object Pose.
-
+AI 自我學習
 ---
 ### AI 自我學習
 
