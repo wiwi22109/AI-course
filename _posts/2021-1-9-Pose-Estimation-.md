@@ -23,7 +23,7 @@ OpenAI 是美國一個人工智慧研究實驗室，由營利組織 OpenAI LP �
 ![](https://tenbaggersnow.com/wp-content/uploads/2021/01/1_bCFcHY3J_3HeFyWSwjZUPA.png)
 
 
-* **[Pose-controlled Lights](https://github.com/burningion/dab-and-tpose-controlled-lights)**<br>
+* **[Pose-controlled Lights]()**<br>
 ![](https://github.com/burningion/dab-and-tpose-controlled-lights/raw/master/images/dab-tpose.gif?raw=True)
 * **[跌倒偵測](https://www.chinatimes.com/realtimenews/20201203005307-260418?chdtv)**
 <table>
