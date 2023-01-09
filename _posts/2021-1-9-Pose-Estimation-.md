@@ -11,8 +11,8 @@ AI 自我學習
 ### AI 自我學習
 
 
-* **[AI 自我學習](C:\Users\ernie\OneDrive\桌面\螢幕擷取畫面 2023-01-09 172950.png)**<br>
-健身新創 Peloton 在這波居家健身浪潮下，以販售主力產品飛輪、跑步機搭配線上課程，並將健身教練打造成「網紅」，用心拍攝運動影片，成功創造粉絲經濟。<br>
+* **[OpenAI]
+人工智能現在已經可以做到與人類自由交流。<br>
 ![](https://tenbaggersnow.com/wp-content/uploads/2021/01/openai-1-320x133.png)
 
 * **[馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)**<br>
