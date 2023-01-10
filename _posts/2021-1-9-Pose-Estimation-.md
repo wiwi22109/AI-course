@@ -70,9 +70,74 @@ response = openai.Image.create_variation(
 )
 image_url = response['data'][0]['url']
 ```
-![](https://cdn.openai.com/API/images/guides/image_variation_original.webp)
-![](https://cdn.openai.com/API/images/guides/image_variation_output.webp)
+IMAGE<br>
+![](https://cdn.openai.com/API/images/guides/image_variation_original.webp)<br>
+OUTPUT<br>
+![](https://cdn.openai.com/API/images/guides/image_variation_output.webp)<br>
 
+### Content moderation<br>
+Prompts and images are filtered based on our content policy, returning an error when a prompt or image is flagged. If you have any feedback on false positives or related issues, please contact us through our help center.<br>
+
+### Language-specific tips<br>
+
+### Using in-memory image data<br>
+The Node.js examples in the guide above use the fs module to read image data from disk. In some cases, you may have your image data in memory instead. Here's an example API call that uses image data stored in a Node.js Buffer object:<br>
+```
+// This is the Buffer object that contains your image data
+const buffer = [your image data];
+// Set a `name` that ends with .png so that the API knows it's a PNG image
+buffer.name = "image.png";
+const response = await openai.createImageVariation(
+  buffer,
+  1,
+  "1024x1024"
+);
+```
+### Working with TypeScript<br>
+If you're using TypeScript, you may encounter some quirks with image file arguments. Here's an example of working around the type mismatch by explicitly casting the argument:<br>
+
+```
+// Cast the ReadStream to `any` to appease the TypeScript compiler
+const response = await openai.createImageVariation(
+  fs.createReadStream("image.png") as any,
+  1,
+  "1024x1024"
+);
+```
+And here's a similar example for in-memory image data:<br>
+```
+// This is the Buffer object that contains your image data
+const buffer: Buffer = [your image data];
+// Cast the buffer to `any` so that we can set the `name` property
+const file: any = buffer;
+// Set a `name` that ends with .png so that the API knows it's a PNG image
+file.name = "image.png";
+const response = await openai.createImageVariation(
+  file,
+  1,
+  "1024x1024"
+);
+```
+### Error handling<br>
+API requests can potentially return errors due to invalid inputs, rate limits, or other issues. These errors can be handled with a try...catch statement, and the error details can be found in either error.response or error.message:<br>
+
+```
+try {
+  const response = await openai.createImageVariation(
+    fs.createReadStream("image.png"),
+    1,
+    "1024x1024"
+  );
+  console.log(response.data.data[0].url);
+} catch (error) {
+  if (error.response) {
+    console.log(error.response.status);
+    console.log(error.response.data);
+  } else {
+    console.log(error.message);
+  }
+}
+```
 
 
 ### 2.自動生成網頁程式碼<br>
