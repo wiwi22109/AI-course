@@ -24,8 +24,10 @@ OpenAI 是美國一個人工智慧研究實驗室，由營利組織 OpenAI LP �
 
 
 
-### 1.自動生成臉孔<br>
-只需輸入簡單條件，就能建構出極為真實的人像臉孔<br>
+### 1.圖像生成<br>
+### Usage<br>
+### Generations<br>
+The image generations endpoint allows you to create an original image given a text prompt. Generated images can have a size of 256x256, 512x512, or 1024x1024 pixels. Smaller sizes are faster to generate. You can request 1-10 images at a time using the n parameter.<br>
 
 ### 2.自動生成網頁程式碼<br>
 只需輸入你想要的網頁內容，系統即可自動產生網頁程式碼<br>
