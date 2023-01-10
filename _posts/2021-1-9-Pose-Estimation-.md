@@ -44,6 +44,20 @@ The more detailed the description, the more likely you are to get the result tha
 2.a close up, studio photographic portrait of a white siamese cat that looks curious, backlit ears<br>
 ![](https://cdn.openai.com/API/images/guides/image_generation_detailed.webp)<br>
 
+Each image can be returned as either a URL or Base64 data, using the response_format parameter. URLs will expire after an hour.<br>
+
+### Edits<br>
+The image edits endpoint allows you to edit and extend an image by uploading a mask. The transparent areas of the mask indicate where the image should be edited, and the prompt should describe the full new image, not just the erased area. This endpoint can enable experiences like the editor in our DALL·E preview app.<br>
+```
+response = openai.Image.create_edit(
+  image=open("sunlit_lounge.png", "rb"),
+  mask=open("mask.png", "rb"),
+  prompt="A sunlit indoor lounge area with a pool containing a flamingo",
+  n=1,
+  size="1024x1024"
+)
+image_url = response['data'][0]['url']
+```
 ### 2.自動生成網頁程式碼<br>
 只需輸入你想要的網頁內容，系統即可自動產生網頁程式碼<br>
 ![](https://tenbaggersnow.com/wp-content/uploads/2021/01/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_033c8f8c-8d90-4395-91de-5c988bec128c_600x364.gif)
