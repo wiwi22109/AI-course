@@ -142,10 +142,19 @@ try {
 
 ### 2.自動生成網頁程式碼<br>
 只需輸入你想要的網頁內容，系統即可自動產生網頁程式碼<br>
-![](https://tenbaggersnow.com/wp-content/uploads/2021/01/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_033c8f8c-8d90-4395-91de-5c988bec128c_600x364.gif)
+![](https://tenbaggersnow.com/wp-content/uploads/2021/01/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_033c8f8c-8d90-4395-91de-5c988bec128c_600x364.gif)<br>
 
-### 3.自動生成文章<br>
-完整生成一篇文章。<br>
+### Introduction<br>
+The Codex model series is a descendant of our GPT-3 series that's been trained on both natural language and billions of lines of code. It's most capable in Python and proficient in over a dozen languages including JavaScript, Go, Perl, PHP, Ruby, Swift, TypeScript, SQL, and even Shell. During this initial limited beta period, Codex usage is free. Learn more.<br>
+
+You can use Codex for a variety of tasks including:<br>
+
+Turn comments into code<br>
+Complete your next line or function in context<br>
+Bring knowledge to you, such as finding a useful library or API call for an application<br>
+Add comments<br>
+Rewrite code for efficiency<br>
+
 
 參考資料:
 https://tenbaggersnow.com/?p=6155
