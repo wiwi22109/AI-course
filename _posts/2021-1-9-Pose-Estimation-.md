@@ -39,10 +39,10 @@ image_url = response['data'][0]['url']
 The more detailed the description, the more likely you are to get the result that you or your end user want. You can explore the examples in the DALL·E preview app for more prompting inspiration. Here's a quick example:<br>
 <br>
 1.a white siamese cat<br>
-![](https://cdn.openai.com/API/images/guides/image_generation_simple.webp)
+![](https://cdn.openai.com/API/images/guides/image_generation_simple.webp)<br>
 <br>
 2.a close up, studio photographic portrait of a white siamese cat that looks curious, backlit ears<br>
-![](https://cdn.openai.com/API/images/guides/image_generation_detailed.webp)
+![](https://cdn.openai.com/API/images/guides/image_generation_detailed.webp)<br>
 
 ### 2.自動生成網頁程式碼<br>
 只需輸入你想要的網頁內容，系統即可自動產生網頁程式碼<br>
