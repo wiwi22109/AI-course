@@ -28,6 +28,14 @@ OpenAI 是美國一個人工智慧研究實驗室，由營利組織 OpenAI LP �
 ### Usage<br>
 ### Generations<br>
 The image generations endpoint allows you to create an original image given a text prompt. Generated images can have a size of 256x256, 512x512, or 1024x1024 pixels. Smaller sizes are faster to generate. You can request 1-10 images at a time using the n parameter.<br>
+```
+response = openai.Image.create(
+  prompt="a white siamese cat",
+  n=1,
+  size="1024x1024"
+)
+image_url = response['data'][0]['url']
+```
 ![](https://cdn.openai.com/API/images/guides/image_generation_simple.webp)
 
 ### 2.自動生成網頁程式碼<br>
