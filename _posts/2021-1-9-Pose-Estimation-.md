@@ -58,8 +58,20 @@ response = openai.Image.create_edit(
 )
 image_url = response['data'][0]['url']
 ```
+The uploaded image and mask must both be square PNG images less than 4MB in size, and also must have the same dimensions as each other. The non-transparent areas of the mask are not used when generating the output, so they don’t necessarily need to match the original image like the example above.<br>
 
-![](https://cdn.openai.com/API/images/guides/image_edit_output.webp)<br>
+### Variations<br>
+The image variations endpoint allows you to generate a variation of a given image.<br>
+```
+response = openai.Image.create_variation(
+  image=open("corgi_and_cat_paw.png", "rb"),
+  n=1,
+  size="1024x1024"
+)
+image_url = response['data'][0]['url']
+```
+![](https://cdn.openai.com/API/images/guides/image_variation_original.webp)
+![](https://cdn.openai.com/API/images/guides/image_variation_output.webp)
 
 
 
