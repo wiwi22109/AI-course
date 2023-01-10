@@ -149,12 +149,15 @@ The Codex model series is a descendant of our GPT-3 series that's been trained o
 
 You can use Codex for a variety of tasks including:<br>
 
-Turn comments into code<br>
-Complete your next line or function in context<br>
-Bring knowledge to you, such as finding a useful library or API call for an application<br>
-Add comments<br>
-Rewrite code for efficiency<br>
+1.Turn comments into code<br>
+2.Complete your next line or function in context<br>
+3.Bring knowledge to you, such as finding a useful library or API call for an application<br>
+4.Add comments<br>
+5.Rewrite code for efficiency<br>
+
+https://beta.openai.com/docs/guides/code/introduction
 
 
 參考資料:
 https://tenbaggersnow.com/?p=6155
+https://beta.openai.com/overview
