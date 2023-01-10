@@ -58,6 +58,11 @@ response = openai.Image.create_edit(
 )
 image_url = response['data'][0]['url']
 ```
+
+![](https://cdn.openai.com/API/images/guides/image_edit_original.webp)<br>
+
+
+
 ### 2.自動生成網頁程式碼<br>
 只需輸入你想要的網頁內容，系統即可自動產生網頁程式碼<br>
 ![](https://tenbaggersnow.com/wp-content/uploads/2021/01/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_033c8f8c-8d90-4395-91de-5c988bec128c_600x364.gif)
