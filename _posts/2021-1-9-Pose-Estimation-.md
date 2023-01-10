@@ -155,9 +155,9 @@ You can use Codex for a variety of tasks including:<br>
 3.Bring knowledge to you, such as finding a useful library or API call for an application<br>
 4.Add comments<br>
 5.Rewrite code for efficiency<br>
-https://beta.openai.com/docs/guides/code/introduction](https://beta.openai.com/codex-javascript-sandbox
+https://beta.openai.com/codex-javascript-sandbox
 
 
-參考資料:
-https://tenbaggersnow.com/?p=6155
-https://beta.openai.com/overview
+參考資料:<br>
+https://tenbaggersnow.com/?p=6155<br><br>
+https://beta.openai.com/overview<br>
