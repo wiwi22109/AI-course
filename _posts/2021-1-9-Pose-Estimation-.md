@@ -24,15 +24,15 @@ OpenAI 是美國一個人工智慧研究實驗室，由營利組織 OpenAI LP �
 
 
 
-1. 自動生成臉孔
-只需輸入簡單條件，就能建構出極為真實的人像臉孔
+###1.自動生成臉孔<br>
+只需輸入簡單條件，就能建構出極為真實的人像臉孔<br>
 
-2. 自動生成網頁程式碼
-只需輸入你想要的網頁內容，系統即可自動產生網頁程式碼
+###2.自動生成網頁程式碼<br>
+只需輸入你想要的網頁內容，系統即可自動產生網頁程式碼<br>
 ![](https://tenbaggersnow.com/wp-content/uploads/2021/01/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_033c8f8c-8d90-4395-91de-5c988bec128c_600x364.gif)
 
-4. 自動生成文章
-英國The Guardian 衛報 (並不是世衞報章) 曾使用 GPT-3 完整生成一篇文章。
+###3.自動生成文章<br>
+完整生成一篇文章。<br>
 
 參考資料:
 https://tenbaggersnow.com/?p=6155
