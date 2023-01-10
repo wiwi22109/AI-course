@@ -59,7 +59,7 @@ response = openai.Image.create_edit(
 image_url = response['data'][0]['url']
 ```
 
-![](https://cdn.openai.com/API/images/guides/image_edit_original.webp)<br>
+![](https://cdn.openai.com/API/images/guides/image_edit_output.webp)<br>
 
 
 
